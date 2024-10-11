@@ -21,7 +21,8 @@ def delete_nonstandard_files():
 
 def rename_standard_files():
     now = datetime.datetime.utcnow() + datetime.timedelta(hours=8)
-    current_date = now.strftime("%m%d")
+   # current_date = now.strftime("%m%d")
+    current_date = '2024'  //取消重命名
 
     # 获取当前目录下的所有文件
     all_files = os.listdir(os.getcwd())
