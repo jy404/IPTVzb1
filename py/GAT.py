@@ -1366,9 +1366,7 @@ def delete_nonstandard_files():
                         print(f"Deleted {old_filename}")
 
 def rename_standard_files():
-    now = datetime.datetime.utcnow() + datetime.timedelta(hours=8)
-    current_date = now.strftime("%m%d")
-
+  
     # 获取当前目录下的所有文件
     all_files = os.listdir(os.getcwd())
 
@@ -1376,7 +1374,7 @@ def rename_standard_files():
     for fixed_char in fixed_characters:
         if not os.path.exists(fixed_char):
             continue
-        new_filename = f"{current_date}{fixed_char}"
+        new_filename = f"{'2024'}{fixed_char}"
         full_old_path = os.path.join(os.getcwd(), fixed_char)
         full_new_path = os.path.join(os.getcwd(), new_filename)
         os.rename(full_old_path, full_new_path)
