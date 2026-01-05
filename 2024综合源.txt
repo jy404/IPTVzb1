@@ -1064,6 +1064,9 @@ RTMP频道EXO解码,#genre#
 达川生活[1080p],rtmp://tv.drs.dzxw.net/channellive/ggpd-dz2
 港澳频道,#genre#
 1900影剧室,http://huanqiuzhibo.cn/manifest/douyu.php?id=7796193
+TVB翡翠剧集,http://iptv.4666888.xyz/iptv2A.php?id=72
+TVB黄金华剧,http://iptv.4666888.xyz/iptv2A.php?id=80
+TVB明珠剧集,http://iptv.4666888.xyz/iptv2A.php?id=73
 TVB亚洲剧,https://stream1.freetv.fun/tvbsya-zhou-2.m3u8
 TVB亚洲剧,https://stream1.freetv.fun/tvbsya-zhou-14.m3u8
 TVBS台剧,http://nmk.ioapk.com:5050/4gtv-live088/index.m3u8?proxy=true
@@ -1088,7 +1091,6 @@ TVBS台剧,http://nmk.ioapk.com:5050/4gtv-live088/index.m3u8?proxy=true
 靖天戏剧台,https://stream1.freetv.fun/jing-tian-xi-ju-3.m3u8
 靖天戏剧台,https://stream1.freetv.fun/jing-tian-xi-ju-4.ctv
 靖天戏剧台,https://stream1.freetv.fun/jing-tian-xi-ju-4.m3u8
-靖洋戏剧台,http://iptv.4666888.xyz/iptv2A.php?id=42
 靖洋戏剧台,https://t.freetv.fun/live/jing-yang-xi-ju-11.m3u8
 靖洋戏剧台,https://t.freetv.fun/live/jing-yang-xi-ju-6.m3u8
 靖洋戏剧台,https://t.freetv.fun/live/jing-yang-xi-ju-8.m3u8
@@ -1111,9 +1113,8 @@ TVBS台剧,http://nmk.ioapk.com:5050/4gtv-live088/index.m3u8?proxy=true
 美亚电影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 美亚电影国流,http://bxtv.3a.ink/api.php?id=meiya
-民视影剧台,http://iptv.4666888.xyz/iptv2A.php?id=53
 三立戏剧*,https://stream1.freetv.fun/san-li-xi-ju-4.m3u8
-神乐影片2,http://huanqiuzhibo.cn/manifest/douyu.php?id=85894
+神乐影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=85894
 天映电影台,https://stream1.freetv.fun/tian-ying-dian-ying-1.m3u8
 纬来电影台,http://iptv.4666888.xyz/iptv2A.php?id=40
 纬来电影台,https://stream1.freetv.fun/wei-lai-dian-ying-1.m3u8
@@ -1135,7 +1136,7 @@ TVB翡翠*,https://stream1.freetv.fun/fei-cui-1.m3u8
 TVB翡翠*,https://stream1.freetv.fun/fei-cui-10.m3u8
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 TVB翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-TVB功夫,https://mgev.188766.xyz/?migutoken=fab62604566f7352a166e08fe94d4685&id=hk_yzwx&type=dy
+TVB功夫,https://mgev.188766.xyz/?migutoken=b6ffabb42dbbd2d24504410d7fb2fb52&id=hk_yzwx&type=dy
 TVB华丽台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVB经典*,https://stream1.freetv.fun/tvbqian-xi-jing-dian-2.m3u8
 TVB明珠*,https://stream1.freetv.fun/ming-zhu-4.m3u8
@@ -1143,6 +1144,7 @@ TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 TVB明珠,http://r.jdshipin.com/ZQ4kN
 TVB明珠,http://r.jdshipin.com/jUx8K
 TVB明珠,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
+TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
 TVB千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 TVB千禧经典台,http://php.jdshipin.com/smt.php?id=Tvbclassic
 TVB无线新闻*,https://stream1.freetv.fun/wu-xian-xin-wen-1.m3u8
@@ -1153,13 +1155,14 @@ TVB无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 TVB无线新闻台,http://r.jdshipin.com/CkuBd
 TVB无线新闻台,https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40
 TVB无线新闻台,https://stream1.freetv.fun/678d877ac436471c003e6f566eaa81b022de75dca45be60e1660efbf223765ca.m3u8
+TVB新闻娱乐,http://iptv.4666888.xyz/iptv2A.php?id=74
 TVB星河3,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 TVB星河,http://r.jdshipin.com/Voac4
 TVB星河,http://r.jdshipin.com/sXuuD
-TVB星河,https://mgev.188766.xyz/?migutoken=049851b327268c5201a25ed7ba48e132&id=hk_tvbxh&type=dy
+TVB星河,https://mgev.188766.xyz/?migutoken=dd0caa889bf8ed12d4497074947fd1c0&id=hk_tvbxh&type=dy
 TVB星河国语,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 TVB星河国语,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB星河台XingHe,https://smt.go-iptv.ggff.net/smart.php?id=Xinhe&token=Goiptv
@@ -1168,6 +1171,8 @@ TVB娱乐新闻台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 TVB,https://stream1.freetv.fun/atv-plus-1.m3u8
 TVB,https://stream1.freetv.fun/atv-plus-2.m3u8
 TVB,https://stream1.freetv.fun/tvb-plus-6.m3u8
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+TVB1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283867
 TVBAsia,https://smt.go-iptv.ggff.net/smart.php?id=Tvbasia&token=Goiptv
 TVBDRAMA,http://iptv.4666888.xyz/iptv2A.php?id=33
 TVBDRAMA,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283860
@@ -1232,17 +1237,12 @@ TVBlus,https://smt.1678520.xyz/smt3.2.1.php?id=j2_twn
 番薯音乐台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯音乐台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 芳芳说故事,http://huanqiuzhibo.cn/manifest/douyu.php?id=9401905
-翡翠台4K,https://mgev.188766.xyz/?migutoken=04b18d3ebfaa725a1dda1e2b6beae6a3&id=hk_fct4k&type=dy
+翡翠台4K,https://mgev.188766.xyz/?migutoken=00842f0af8615f368be36bda8a073878&id=hk_fct4k&type=dy
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
-翡翠台,https://mgev.188766.xyz/?migutoken=d5022dbd413c8359d2209dde0c2ee02a&id=hk_fct&type=dy
-翡翠台,http://r.jdshipin.com/n90gt
+翡翠台,https://mgev.188766.xyz/?migutoken=9a319ecf3094dccf281663d51a3bfb69&id=hk_fct&type=dy
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,https://stream1.freetv.fun/fei-cui-2.ctv
@@ -1250,6 +1250,7 @@ TVBlus,https://smt.1678520.xyz/smt3.2.1.php?id=j2_twn
 翡翠台版,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
 凤凰卫视*,https://stream1.freetv.fun/feng-huang-wei-shi-10.m3u8
 凤凰卫视*,https://stream1.freetv.fun/feng-huang-wei-shi-11.m3u8
+凤凰卫视*,https://stream1.freetv.fun/feng-huang-wei-shi-3.m3u8
 凤凰卫视香港,http://bxtv.3a.ink/api.php?id=fhhk
 凤凰卫视中文,http://bxtv.3a.ink/api.php?id=fhzw
 凤凰卫视资讯台,http://bxtv.3a.ink/api.php?id=fhzx
@@ -1257,8 +1258,7 @@ TVBlus,https://smt.1678520.xyz/smt3.2.1.php?id=j2_twn
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
-凤凰香港,https://mgev.188766.xyz/?migutoken=db21666235225e20cb7c32d906f84c47&id=hk_fhhk&type=dy
-凤凰香港,https://mgev.188766.xyz/?migutoken=6137f680501835369cef41785d94d0be&id=fhhk&pp=1
+凤凰香港,https://mgev.188766.xyz/?migutoken=093a5c14126da1509cc52f9327ed7226&id=hk_fhhk&type=dy
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-5.ctv
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-8.ctv
 凤凰香港频备,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
@@ -1266,9 +1266,8 @@ TVBlus,https://smt.1678520.xyz/smt3.2.1.php?id=j2_twn
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
-凤凰中文,https://mgev.188766.xyz/?migutoken=a8593d75e0aa0dc4951e93da959bffab&id=hk_fhzw&type=dy
-凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=60
-凤凰中文,https://mgev.188766.xyz/?migutoken=12be4b83f5fb693af3280ce9340fc853&id=fhzw&pp=1
+凤凰中文,https://mgev.188766.xyz/?migutoken=0224b1dd1fdc41636947e27e5e4e9739&id=hk_fhzw&type=dy
+凤凰中文,https://mgev.188766.xyz/?migutoken=0451957317bed61e09b5b785e9eac1d5&id=fhzw&pp=1
 凤凰中文,https://stream1.freetv.fun/2b657a181daa345025199e7d6b8de95a1a87b19abceafbd16e2499a49da33c6f.m3u8
 凤凰中文,https://stream1.freetv.fun/4e695e885cc20b20b7e3ec874fe52ed75e27443778c8ff29e498c4c9d7cec4a0.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-10.m3u8
@@ -1286,10 +1285,9 @@ TVBlus,https://smt.1678520.xyz/smt3.2.1.php?id=j2_twn
 凤凰资讯台,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰资讯台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯台,http://r.jdshipin.com/0Rp07
-凤凰资讯台,https://mgev.188766.xyz/?migutoken=756f5118524370d4aedbb87fc2ff6ec3&id=hk_fhzx&type=dy
-凤凰资讯台,http://iptv.4666888.xyz/iptv2A.php?id=61
+凤凰资讯台,https://mgev.188766.xyz/?migutoken=c6088f01a9938e4abafd0d8f82beba0f&id=hk_fhzx&type=dy
 凤凰资讯台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰资讯台,https://mgev.188766.xyz/?migutoken=adfb1d2973e98aca10144faea6fc37e6&id=fhzx&pp=1
+凤凰资讯台,https://mgev.188766.xyz/?migutoken=0d5e9debc96e750c28a92bce01014518&id=fhzx&pp=1
 凤凰资讯台,https://stream1.freetv.fun/a5857ad51b58a0f7a8c9cbdf291571692b0eed9f5ab2cfce97a211260533c0d8.m3u8
 凤凰资讯台,https://stream1.freetv.fun/feng-huang-zi-xun-1.m3u8
 凤凰资讯台,https://stream1.freetv.fun/feng-huang-zi-xun-12.ctv
@@ -1309,10 +1307,10 @@ TVBlus,https://smt.1678520.xyz/smt3.2.1.php?id=j2_twn
 寰宇财经,http://220.135.64.124:5050/of-4gtv-4gtv158/index.m3u8?proxy=true
 寰宇财经,http://nmk.ioapk.com:5050/li-4gtv-4gtv158/index.m3u8?proxy=true
 寰宇财经,http://nmk.ioapk.com:5050/of-4gtv-4gtv158/index.m3u8?proxy=true
+寰宇财经,https://smt.go-iptv.ggff.net/smart.php?id=huanyutaiwan_twn&token=Goiptv
 寰宇财经,https://t.freetv.fun/live/huan-yu-cai-jing-10.m3u8
 寰宇财经,https://t.freetv.fun/live/huan-yu-cai-jing-6.m3u8
 寰宇财经,https://t.freetv.fun/live/huan-yu-cai-jing-9.m3u8
-寰宇财经,https://smt.go-iptv.ggff.net/smart.php?id=huanyutaiwan_twn&token=Goiptv
 寰宇新闻台,https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8
 寰宇新闻台,https://stream1.freetv.fun/huan-yu-xin-wen-4.m3u8
 寰宇新闻台,https://stream1.freetv.fun/huan-yu-xin-wen-6.m3u8
@@ -1321,11 +1319,11 @@ TVBlus,https://smt.1678520.xyz/smt3.2.1.php?id=j2_twn
 靖天,https://t.freetv.fun/live/jing-tian-guo-ji-11.m3u8
 靖天,https://t.freetv.fun/live/jing-tian-guo-ji-7.m3u8
 靖天,https://t.freetv.fun/live/jing-tian-guo-ji-8.m3u8
+靖天卡通台,https://smt.go-iptv.ggff.net/smart.php?id=jingtiancartoon_twn&token=Goiptv
 靖天卡通台,https://t.freetv.fun/live/jing-tian-qia-tong-10.m3u8
 靖天卡通台,https://t.freetv.fun/live/jing-tian-qia-tong-11.m3u8
 靖天卡通台,https://t.freetv.fun/live/jing-tian-qia-tong-12.m3u8
 靖天卡通台,https://t.freetv.fun/live/jing-tian-qia-tong-9.m3u8
-靖天卡通台,https://smt.go-iptv.ggff.net/smart.php?id=jingtiancartoon_twn&token=Goiptv
 靖天卡通台,https://stream1.freetv.fun/jing-tian-qia-tong-1.m3u8
 靖天日本台,https://t.freetv.fun/live/jing-tian-ri-ben-10.m3u8
 靖天日本台,https://t.freetv.fun/live/jing-tian-ri-ben-11.m3u8
@@ -1408,20 +1406,20 @@ TVBlus,https://smt.1678520.xyz/smt3.2.1.php?id=j2_twn
 台视新闻台,https://stream1.freetv.fun/tai-shi-xin-wen-8.m3u8
 天映CM,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 天映CM,http://php.jdshipin.com:8880/smt.php?id=Aodhd
+天映,https://smt.go-iptv.ggff.net/smart.php?id=Celestialindo&token=Goiptv
 天映,http://php.jdshipin.com/smt.php?id=Celestial
 天映,http://php.jdshipin.com:8880/smt.php?id=Celestial
 天映,https://cdn9.163189.xyz/smt1.1.php?id=Celestial
 天映,https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial
 天映,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
-天映,https://smt.go-iptv.ggff.net/smart.php?id=Celestialindo&token=Goiptv
 天映,https://stream1.freetv.fun/tian-ying-1.m3u8
 天映经典*,https://stream1.freetv.fun/tian-ying-jing-dian-4.m3u8
+天映经典台,http://iptv.4666888.xyz/iptv2A.php?id=39
 天映经典台,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791
 天映经典台,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 天映经典台,https://stream1.freetv.fun/tian-ying-jing-dian-3.m3u8
 天映经典台,https://stream1.freetv.fun/tian-ying-jing-dian-5.m3u8
 天映经典台,https://stream1.freetv.fun/tian-ying-jing-dian-7.m3u8
-天映经典[818p],http://iptv.4666888.xyz/iptv2A.php?id=39
 纬来日本台,https://smt.go-iptv.ggff.net/smart.php?id=videolandjapan&token=Goiptv
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
@@ -1430,13 +1428,14 @@ TVBlus,https://smt.1678520.xyz/smt3.2.1.php?id=j2_twn
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
 纬来综合台,https://smt.go-iptv.ggff.net/smart.php?id=videolandzonghe&token=Goiptv
 无线TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
-无线翡翠,http://bxtv.3a.ink/api.php?id=fct
 无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct2
 无线翡翠,https://smt.go-iptv.ggff.net/smart.php?id=Jade_xue&token=Goiptv
 无线翡翠,https://smt.go-iptv.ggff.net/smart.php?id=jade_twn&token=Goiptv
 无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct
 无线翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 无线翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+无线翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+无线华丽翡翠,http://iptv.4666888.xyz/iptv2A.php?id=28
 无线华丽翡翠,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
 无线华丽翡翠,https://smt.1678520.xyz/smt3.2.1.php?id=Wlt
 无线华丽台,http://php.jdshipin.com:8880/smt.php?id=Wlt
@@ -1454,7 +1453,7 @@ TVBlus,https://smt.1678520.xyz/smt3.2.1.php?id=j2_twn
 无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
 无线新闻台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 无线新闻台,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
-无线新闻台,https://mgev.188766.xyz/?migutoken=7c3a9aa1251f7a0b2a772807a0099cf1&id=hk_wxxw&type=dy
+无线新闻台,https://mgev.188766.xyz/?migutoken=b169b99c94f369f2cd159dbde558fc0b&id=hk_wxxw&type=dy
 无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻台源2,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 无线娱乐,https://cdn9.163189.xyz/smt1.1.php?id=Tvbentertainment
@@ -1479,5 +1478,5 @@ TVBlus,https://smt.1678520.xyz/smt3.2.1.php?id=j2_twn
 中天新闻台,http://cdn.iptv8k.top/dl/jspd.php?id=1
 中天新闻台,http://cdn.iptv8k.top/dl/jspd.php?id=23
 
-2026/01/04 18:54更新,#genre#
+2026/01/05 19:06更新,#genre#
 虚情的爱,https://vd2.bdstatic.com/mda-mi1dd05gmhwejdwn/sc/cae_h264/1630576203346678103/mda-mi1dd05gmhwejdwn.mp4
