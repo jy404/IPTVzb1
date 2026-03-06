@@ -1,10 +1,5 @@
 港澳频道,#genre#
-美亚电影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-美亚电影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-TVB华丽台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVB明珠,http://php.jdshipin.com/smt.php?id=pearl_twn
-TVB千禧经典台,http://php.jdshipin.com/smt.php?id=Tvbclassic
 TVB无线新闻台,http://74.91.26.218:82/live/inews.m3u8
 TVB无线新闻台,https://stream1.freetv.fun/678d877ac436471c003e6f566eaa81b022de75dca45be60e1660efbf223765ca.m3u8
 TVB,http://74.91.26.218:82/live/j2.m3u8
@@ -21,11 +16,6 @@ TVB,http://74.91.26.218:82/live/j2.m3u8
 台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
 台视新闻台,https://stream1.freetv.fun/tai-shi-xin-wen-1.m3u8
 台视综合台,http://74.91.26.218:82/live/ttvzh.m3u8
-无线翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 无线华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
-无线华丽台,http://php.jdshipin.com:8880/smt.php?id=Wlt
-无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-无线新闻台源1,http://php.jdshipin.com/smt.php?id=inews_twn
-无线新闻台源2,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 中视,http://37.27.111.214:8080/live/7/hls.m3u8
 中视,http://74.91.26.218:82/live/ctv.m3u8
