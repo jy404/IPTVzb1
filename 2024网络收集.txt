@@ -1,12 +1,10 @@
 港澳频道,#genre#
 东森电影台,https://stream1.freetv.fun/dong-sen-dian-ying-8.ctv
 靖天戏剧台,https://stream1.freetv.fun/jing-tian-xi-ju-4.ctv
-靖洋戏剧台,https://stream1.freetv.fun/jing-yang-xi-ju-1.ctv
 纬来电影台,https://stream1.freetv.fun/wei-lai-dian-ying-1.m3u8
 TVBJ1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 八大综合台,https://stream1.freetv.fun/ba-da-zong-he-1.m3u8
-超三联赛成都争霸赛开赛仪式及小组赛Day1晚间场【回放】南昌凯锆商贸21:20深圳龙华启航18:30,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/612/713/5106612713/media/5106612713_5337995348_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701784500&pid=2028597139&timestamp=20260620180224&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965510684&ParentNodeID=-99&assertID=5701784500&client_ip=171.8.79.254&SecurityKey=20260620180224&promotionId=&mvid=5106612713&mcid=1003&mpid=120000580457&playurlVersion=WX-A1-9.6.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=33a52c03e0a14f5ec1c2357b7a87fb94&sv=10004&ct=android
-超三联赛成都争霸赛小组赛Day1下午场【回放】深圳龙华启航16:13广东光正教育12:55,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/612/611/5106612611/media/5106612611_5337986645_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701784303&pid=2028597139&timestamp=20260620160235&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965506639&ParentNodeID=-99&assertID=5701784303&client_ip=171.8.79.254&SecurityKey=20260620160235&promotionId=&mvid=5106612611&mcid=1003&mpid=120000580456&playurlVersion=WX-A1-9.6.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=091f6beefeaee482e56cd785e5786421&sv=10004&ct=android
+超三联赛成都争霸赛小组赛Day2晚间场【回放】深圳龙华启航22:15广东悦跑豹猫18:55,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/613/150/5106613150/media/5106613150_5338036039_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701785329&pid=2028597139&timestamp=20260621160241&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965531760&ParentNodeID=-99&assertID=5701785329&client_ip=171.8.79.254&SecurityKey=20260621160241&promotionId=&mvid=5106613150&mcid=1003&mpid=120000580459&playurlVersion=WX-A1-9.6.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ba60f2ba9ee9d99694b90a40d4323d68&sv=10004&ct=android
 东森,https://stream1.freetv.fun/dong-sen-mei-zhou-xin-wen-1.m3u8
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-2.m3u8
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8
@@ -18,10 +16,8 @@ TVBJ1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 东森新闻台,https://stream1.freetv.fun/dong-sen-xin-wen-5.ctv
 东森新闻台,https://stream1.freetv.fun/dong-sen-xin-wen-7.ctv
 东森洋片,https://stream1.freetv.fun/dong-sen-yang-pian-3.m3u8
-翡翠台,https://stream1.freetv.fun/fei-cui-2.ctv
 凤凰卫视中文,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=3ed416f2709e7ecaf6dc1b9d9c66bb5e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-5.ctv
-凤凰中文,https://stream1.freetv.fun/2b657a181daa345025199e7d6b8de95a1a87b19abceafbd16e2499a49da33c6f.m3u8
 凤凰中文,https://stream1.freetv.fun/4e695e885cc20b20b7e3ec874fe52ed75e27443778c8ff29e498c4c9d7cec4a0.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-10.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-11.m3u8
@@ -31,7 +27,6 @@ TVBJ1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-18.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-4.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-5.ctv
-凤凰资讯台,https://stream1.freetv.fun/a5857ad51b58a0f7a8c9cbdf291571692b0eed9f5ab2cfce97a211260533c0d8.m3u8
 凤凰资讯台,https://stream1.freetv.fun/feng-huang-zi-xun-2.ctv
 公视,http://74.91.26.218:82/live/pts.m3u8
 公视台语,http://74.91.26.218:82/live/ptsty.m3u8
@@ -46,7 +41,6 @@ TVBJ1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 民视台湾台,https://stream1.freetv.fun/min-shi-tai-wan-6.ctv
 民视新闻台,https://stream1.freetv.fun/min-shi-xin-wen-11.m3u8
 民视新闻台,https://stream1.freetv.fun/min-shi-xin-wen-14.m3u8
-民视新闻台,https://stream1.freetv.fun/min-shi-xin-wen-2.m3u8
 民视新闻台,https://stream1.freetv.fun/min-shi-xin-wen-7.m3u8
 三立台湾台,https://stream1.freetv.fun/san-li-tai-wan-1.ctv
 三立新闻台,https://stream1.freetv.fun/san-li-xin-wen-3.m3u8
