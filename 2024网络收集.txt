@@ -38,17 +38,17 @@ TVBJ1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 公视,http://74.91.26.218:82/live/pts.m3u8
 公视台语,http://74.91.26.218:82/live/ptsty.m3u8
 华视,http://74.91.26.218:82/live/cts.m3u8
+华视,https://t.freetv.fun/live/hua-shi-2.ts
 华视新闻资讯台,http://74.91.26.218:82/live/ctsnews.m3u8
-寰宇新闻台,https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8
 寰宇新闻台,https://stream1.freetv.fun/huan-yu-xin-wen-6.m3u8
 寰宇新闻台,https://stream1.freetv.fun/huan-yu-xin-wen-7.m3u8
 靖天资讯台,https://stream1.freetv.fun/jing-tian-zi-xun-2.ctv
 民视第一台,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv003
 民视第一台,https://stream1.freetv.fun/min-shi-di-yi-2.ctv
 民视台湾台,https://stream1.freetv.fun/min-shi-tai-wan-6.ctv
-民视新闻台,https://stream1.freetv.fun/min-shi-xin-wen-2.m3u8
 民视新闻台,https://stream1.freetv.fun/min-shi-xin-wen-11.m3u8
 民视新闻台,https://stream1.freetv.fun/min-shi-xin-wen-14.m3u8
+民视新闻台,https://stream1.freetv.fun/min-shi-xin-wen-2.m3u8
 民视新闻台,https://stream1.freetv.fun/min-shi-xin-wen-7.m3u8
 三立台湾台,https://stream1.freetv.fun/san-li-tai-wan-1.ctv
 三立新闻台,https://stream1.freetv.fun/san-li-xin-wen-3.m3u8
@@ -64,3 +64,5 @@ TVBJ1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 天映经典台,https://stream1.freetv.fun/tian-ying-jing-dian-5.m3u8
 小公视,http://74.91.26.218:82/live/ptsse.m3u8
 中视,http://74.91.26.218:82/live/ctv.m3u8
+中视,https://t.freetv.fun/live/zhong-shi-2.ts
+中天新闻台,https://stream1.freetv.fun/zhong-tian-xin-wen-4.m3u8
