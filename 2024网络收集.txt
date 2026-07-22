@@ -1,8 +1,8 @@
 港澳频道,#genre#
 东森电影台,https://stream1.freetv.fun/dong-sen-dian-ying-8.ctv
 靖天戏剧台,https://stream1.freetv.fun/jing-tian-xi-ju-4.ctv
-纬来电影台,https://stream1.freetv.fun/wei-lai-dian-ying-1.m3u8
 纬来电影台,https://stream1.freetv.fun/wei-lai-dian-ying-3.m3u8
+影迷数位电影台,https://t.freetv.fun/live/ying-mi-shu-wei-dian-ying.m3u8
 TVBJ1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 八大综合台,https://stream1.freetv.fun/ba-da-zong-he-1.m3u8
 东森,https://stream1.freetv.fun/dong-sen-mei-zhou-xin-wen-1.m3u8
@@ -12,7 +12,6 @@ TVBJ1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-8.ctv
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-8.m3u8
 东森卫视,https://stream1.freetv.fun/dong-sen-mei-zhou-wei-shi-1.m3u8
-东森新闻台,https://stream1.freetv.fun/dong-sen-xin-wen-1.m3u8
 东森新闻台,https://stream1.freetv.fun/dong-sen-xin-wen-3.ctv
 东森新闻台,https://stream1.freetv.fun/dong-sen-xin-wen-5.ctv
 东森新闻台,https://stream1.freetv.fun/dong-sen-xin-wen-7.ctv
@@ -32,8 +31,8 @@ TVBJ1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-18.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-4.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-5.ctv
-凤凰资讯台,https://stream1.freetv.fun/a5857ad51b58a0f7a8c9cbdf291571692b0eed9f5ab2cfce97a211260533c0d8.m3u8
 凤凰资讯台,https://stream1.freetv.fun/feng-huang-zi-xun-2.ctv
+凤凰资讯台,https://stream1.freetv.fun/a5857ad51b58a0f7a8c9cbdf291571692b0eed9f5ab2cfce97a211260533c0d8.m3u8
 公视,http://74.91.26.218:82/live/pts.m3u8
 公视台语,http://74.91.26.218:82/live/ptsty.m3u8
 华视,http://74.91.26.218:82/live/cts.m3u8
@@ -50,7 +49,6 @@ TVBJ1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 民视新闻台,https://stream1.freetv.fun/min-shi-xin-wen-14.m3u8
 民视新闻台,https://stream1.freetv.fun/min-shi-xin-wen-2.m3u8
 民视新闻台,https://stream1.freetv.fun/min-shi-xin-wen-7.m3u8
-三立台湾台,https://stream1.freetv.fun/san-li-tai-wan-1.ctv
 三立新闻台,https://stream1.freetv.fun/san-li-xin-wen-3.m3u8
 三立新闻台,https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
 三立新闻台,https://stream1.freetv.fun/san-li-xin-wen-5.ctv
@@ -64,6 +62,6 @@ TVBJ1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 天映经典台,https://stream1.freetv.fun/tian-ying-jing-dian-5.m3u8
 小公视,http://74.91.26.218:82/live/ptsse.m3u8
 中视,http://74.91.26.218:82/live/ctv.m3u8
-中视,https://t.freetv.fun/live/zhong-shi-3.ts
 中视,https://t.freetv.fun/live/zhong-shi-2.php
 中视,https://t.freetv.fun/live/zhong-shi-2.ts
+中视,https://t.freetv.fun/live/zhong-shi-3.ts
