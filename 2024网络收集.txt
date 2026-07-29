@@ -42,6 +42,7 @@ TVBJ1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 民视第一台,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv003
 民视第一台,https://stream1.freetv.fun/min-shi-di-yi-2.ctv
 民视台湾台,https://stream1.freetv.fun/min-shi-tai-wan-6.ctv
+民视新闻台,https://stream1.freetv.fun/min-shi-xin-wen-2.m3u8
 民视新闻台,https://stream1.freetv.fun/min-shi-xin-wen-11.m3u8
 民视新闻台,https://stream1.freetv.fun/min-shi-xin-wen-14.m3u8
 民视新闻台,https://stream1.freetv.fun/min-shi-xin-wen-7.m3u8
