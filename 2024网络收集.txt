@@ -6,15 +6,8 @@ Now星影,http://app.kds666.top:5566/api.php?id=19&s=2
 AXN,http://31.43.191.125:8080/restream/restream/34597
 AXN,http://zby.lskk.top/cdnlive.php?mode=play&id=042dba4d2faaa29cd2fa4c0125416d25&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 TVB经典台,http://31.43.191.125:8080/restream/restream/34555
-TVB1,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269834.ts
-TVBDRAMA,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269830.ts
 TVBE新闻台,http://31.43.191.125:8080/restream/restream/34660
-TVBJ1,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269835.ts
 TVBSASIA,http://tv.cloudcdn.me:80/live.ts?channelId=132170&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
-TVBSASIA,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052643.ts
-TVBe,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269832.ts
-东森,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269923.ts
-东森卫视,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269926.ts
 凤凰香港,http://app.kds666.top:5566/api.php?id=129&s=11
 凤凰香港,http://app.kds666.top:5566/api.php?id=3&s=2
 凤凰中文,http://31.43.191.125:8080/restream/restream/34629
@@ -24,7 +17,6 @@ TVBe,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269832.ts
 靖天资讯台,http://zby.lskk.top/cdnlive.php?mode=play&id=14cc21b7b4bf570db94cd3b91fa9dea6&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 民视第一台,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv003
 天映,http://tv.cloudcdn.me:80/live.ts?channelId=93754&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
-天映,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052448.ts
 天映经典台,http://zby.lskk.top/cdnlive.php?mode=play&id=95fbe855a1df5dc78b38a61bc64e7e9e&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 天映经典台,http://tv.cloudcdn.me:80/live.ts?channelId=133120&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
 纬来育乐,http://zby.lskk.top/cdnlive.php?mode=play&id=74cc4c3b644c367a8b56dea754e67692&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
